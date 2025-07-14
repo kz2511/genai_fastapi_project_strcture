@@ -1,0 +1,1 @@
+# genai_fastapi_project_strcture
