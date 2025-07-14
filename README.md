@@ -101,7 +101,7 @@ generative_ai_project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/generative_ai_project.git
+https://github.com/kz2511/genai_fastapi_project_strcture
 cd generative_ai_project
 ```
 
